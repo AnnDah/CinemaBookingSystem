@@ -1,0 +1,8 @@
+/Users/annikamagnusson/Documents/Biografen/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/annikamagnusson/Documents/Biografen/obj/Debug/Biografen.Properties.Resources.resources
+/Users/annikamagnusson/Documents/Biografen/obj/Debug/Biografen.View.resources
+/Users/annikamagnusson/Documents/Biografen/bin/Debug/Biografen.exe.config
+/Users/annikamagnusson/Documents/Biografen/bin/Debug/Biografen.exe.mdb
+/Users/annikamagnusson/Documents/Biografen/bin/Debug/Biografen.exe
+/Users/annikamagnusson/Documents/Biografen/obj/Debug/Biografen.exe
+/Users/annikamagnusson/Documents/Biografen/obj/Debug/Biografen.exe.mdb
